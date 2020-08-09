@@ -1,7 +1,7 @@
 # Guangli_Web_FIP
 
 ## Description
-1055-01-20s This is my final website assignment, which is interesting, but a little bit difficult for me. Five pages of Home, About， Products, Advertise, Contact respectably. Each page has some interesting interaction ICONS are looking forward to your findings. Anyway, this is my brand called Revolve Beer. I hope you'll like it.
+1055/1056-01-20s This is my final website assignment, which is interesting, but a little bit difficult for me. Five pages of Home, About， Products, Advertise, Contact respectably. Each page has some interesting interaction ICONS are looking forward to your findings. Anyway, this is my brand called Revolve Beer. I hope you'll like it.
 
 ## Installation
 There is no installation process for this repo.Simply pulldown and start working!
